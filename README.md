@@ -33,7 +33,7 @@ Use these scripts at your own risk. By using this repository, you agree that the
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/binance-proton-updater.git
+   git clone git@github.com:babebort/software-updater.git
    cd software-updater
    ```
 
