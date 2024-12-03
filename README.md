@@ -1,5 +1,3 @@
-# software-updater
-
 
 # Binance & Proton Applications Updater
 
